@@ -1,5 +1,6 @@
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
+  mode: 'universal',
   head: {
     title: 'landing-Platzi',
     meta: [
@@ -35,6 +36,13 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
+    publicPath: '/_nuxt/client/',
+    transpile: ['vee-validate/dist/rules'],
+    extend(config, ctx) {
+      if (ctx.isDev) {
+        config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map'
+      }
+    },
   },//Recargar no se rompe
   generate: {
     fallback: true
