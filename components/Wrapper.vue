@@ -103,7 +103,7 @@
                                 </div>
                             </div>
                             <!-- Text -->
-                            <div class="font-body text-white justify-start w-10/10
+                            <div class=" text-white justify-start w-10/10
                                         sm:mt-4
                                         md:mt-6
 

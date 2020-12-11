@@ -51,7 +51,7 @@
                             lg:pt-8
                             md:pl-2  lg:pl-0
                             ">
-                        <div class="font-body text-white justify-start 
+                        <div class="text-white justify-start 
                                     sm:mt-4
                                     md:mt-6
                                     lg:mt-0
@@ -69,7 +69,7 @@
                             <span class="font-bold">70%</span> de los graduados de Platzi <span class="font-bold">duplican sus ingresos</span>
                         </div>
 
-                        <div class="font-body text-white justify-start 
+                        <div class=" text-white justify-start 
                                     sm:mt-4
                                     md:mt-6
                                     lg:mt-0
@@ -87,7 +87,7 @@
                         </div>
                     </div>
 
-                    <div class="font-body text-white justify-start
+                    <div class=" text-white justify-start
                                 sm:mt-10
                                 md:mt-10
                                 lg:mt-10

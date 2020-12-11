@@ -1,5 +1,5 @@
 <template>
-    <div class="flex mx-auto
+    <div class="flex 
                 sm:justify-center
                 md:justify-start
                 lg:justify-center
@@ -165,7 +165,7 @@
                                 </div>
                             </div>
                             <!-- Text -->
-                            <div class="font-body text-white justify-start
+                            <div class=" text-white justify-start
                                         sm:mt-4
                                         md:mt-6
                                         lg:mt-10
@@ -391,7 +391,7 @@
                                     </div>
                                 </div>
                                 <!-- Text -->
-                                <div class="font-body text-white justify-start w-10/10
+                                <div class=" text-white justify-start w-10/10
                                         sm:mt-4
                                         md:mt-6
 
