@@ -94,15 +94,27 @@ module.exports = {
           botonorangelighthover: '#FFE14E',
         },
 
+        foot: {
+          fot1: '#6B407E',
+          fot2: '#29B8E8',
+          fot3: '#FA7800',
+          fot4: '#CB161D',
+          fot5: '#1E7C6A',
+          fot6: '#33B13A',
+          fot7: '#F5C443',
+        },
+
         purple: {
           botonpurple: '#E66CEF',
           botonpurplehover: '#FF7DFF',
 
           botonpurplelight: '#BBA1FF',
           botonpurplelighthover: '#D9BBFF',
+
         },
 
         blue: {
+          btton: '#0A8ECD',
           light: '#85d7ff',
           DEFAULT: '#1fb6ff',
           dark: '#121f3d',

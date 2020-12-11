@@ -135,7 +135,7 @@
                                 
                                     sm:pt-4  
                                     md:pt-4  md:pl-4
-                                             lg:pl-0
+                                             lg:pl-4
                                     lg:pt-4  
                                     ">
                             <button type="button"

@@ -5,6 +5,7 @@
                     lg:justify-center
                     ">  
         <div class="flex bg-blue-banne2 px-2 
+                    sm:pb-6
                     md:pt-0
                     md:pb-8
                     lg:py-10

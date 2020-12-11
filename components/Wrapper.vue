@@ -16,8 +16,8 @@
                             sm:flex-col
                             md:flex-row
 
-                            pt-14
-                            pb-14
+                            pt-0
+                            pb-6
                             ">
                     
                     <div class="flex flex-col 

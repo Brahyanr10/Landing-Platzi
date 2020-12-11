@@ -8,6 +8,7 @@
       <Community />
       <Wrapper />
       <NeverStop />
+      <FooterContend />
     </div>
   </div>
 </template>
