@@ -11,13 +11,13 @@
                     xxl:w-5/5
                     ">
             
-            <div class="grid grid-cols-1 w-10/10 
-                        md:pt-14 
-                        md:pb-14
-                        ">
+            
                 <div class="flex w-10/10 
                             sm:flex-col
                             md:flex-row
+
+                            pt-14
+                            pb-14
                             ">
                     
                     <div class="flex flex-col 
@@ -62,7 +62,7 @@
                                     <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
-                                    <p class="text-gray-graylay fonte-medium
+                                    <p class="text-gray-graylay font-medium
                                                 sm:text-base
                                                 lg:text-lg
                                             
@@ -79,7 +79,7 @@
                                     <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
-                                    <p class="text-gray-graylay fonte-medium
+                                    <p class="text-gray-graylay font-medium
                                                 sm:text-base
                                                 lg:text-lg
                                                 ">
@@ -95,7 +95,7 @@
                                     <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
-                                    <p class="text-gray-graylay fonte-medium
+                                    <p class="text-gray-graylay font-medium
                                                 sm:text-base
                                                 lg:text-lg
                                                 ">
@@ -167,9 +167,10 @@
                     <div class="flex 
                                 md:justify-end
                                 lg:justify-end
-                                llg:ju
-                                sm:w-10/10
+
+                                
                                 md:w-9/9
+                                smd:w-6/6
                                 lg:w-8/8
                                 llg:w-6/6
 
@@ -186,7 +187,7 @@
                     </div>
 
                 </div>
-            </div>
+            
         </div>
     </div>
 </template>

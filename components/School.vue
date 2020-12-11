@@ -1,6 +1,6 @@
 <template>
     <!-- div html -->
-    <div class="flex 
+    <div class="flex mx-auto
                 sm:justify-center
                 md:justify-start
                 lg:justify-center
@@ -9,7 +9,7 @@
         <div class="flex justify-center w-10/10 bg-blue-dark  ">
             <!-- Layout 1 -->
             <div class="flex flex-col items-center justify-center
-                    sm:w-10/10
+                    sm:w-9/5
                     md:w-9/9
                     lg:w-9/9
                     xl:w-7/7

@@ -177,6 +177,9 @@ module.exports = {
         'md': '768px', //768-1024 tablets
         // => @media (min-width: 768px) { ... }
 
+        'smd': '900px', //900-1024
+        // => @media (min-width: 900px) { ... }
+
         'lg': '1024px', //1024-1440 potatiles
         // => @media (min-width: 1024px) { ... }
 

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-10/10 bg-blue-dark">
+  <div class="flex w-10/10 bg-blue-dark">
     <div>
       <NavHeader />
       <BanerPromo />

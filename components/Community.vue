@@ -1,5 +1,5 @@
 <template>
-    <div class="flex  bg-blue-dark
+    <div class="flex mx-auto  bg-blue-dark
                     sm:justify-center
                     md:justify-start
                     lg:justify-center

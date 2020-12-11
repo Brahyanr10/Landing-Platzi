@@ -1,5 +1,5 @@
 <template>
-    <div class="flex 
+    <div class="flex mx-auto
                 sm:justify-center
                 md:justify-start
                 lg:justify-center
