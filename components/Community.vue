@@ -50,7 +50,7 @@
                             <!-- 1 -->
                             <div class="flex flex-row items-start w-9/9 pt-4">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-white text-2xl font-bold">
@@ -62,7 +62,7 @@
                             <!-- 2 -->
                             <div class="flex flex-row items-start w-9/9 pt-4">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-white text-2xl font-bold ">
@@ -86,7 +86,7 @@
                             <!-- 3 -->
                             <div class="flex flex-row items-start w-9/9 pt-4">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-white text-2xl font-bold">
@@ -98,7 +98,7 @@
                             <!-- 4 -->
                             <div class="flex flex-row items-start w-9/9 pt-4">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-white text-2xl font-bold ">
@@ -140,7 +140,7 @@
                                             md:pt-8
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-white text-2xl font-bold">
@@ -157,7 +157,7 @@
                                             md:pt-8
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-white text-2xl font-bold ">
@@ -188,7 +188,7 @@
                                             md:pt-8
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-white text-2xl font-bold">
@@ -204,7 +204,7 @@
                                             md:pt-8
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-white text-2xl font-bold ">

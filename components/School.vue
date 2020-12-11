@@ -504,7 +504,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium 
@@ -519,7 +519,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium 
@@ -534,7 +534,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium

@@ -59,7 +59,7 @@
                                         lg:pt-12
                                         ">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-gray-graylay fonte-medium
@@ -76,7 +76,7 @@
                                         lg:w-8/8
                                         ">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-gray-graylay fonte-medium
@@ -92,7 +92,7 @@
                                         lg:w-8/8
                                         ">
                                 <div class="w-1/1 pt-2">
-                                    <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                    <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                 </div>
                                 <div class="w-10/10">
                                     <p class="text-gray-graylay fonte-medium

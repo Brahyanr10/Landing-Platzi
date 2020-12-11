@@ -64,7 +64,7 @@
                                 <!-- 1 -->
                                 <div class="flex flex-row items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <span class="text-gray-graylay text-left
@@ -79,7 +79,7 @@
                                 <!-- 2 -->
                                 <div class="flex flex-row items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -94,7 +94,7 @@
                                 <!-- 3 -->
                                 <div class="flex flex-row items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -109,7 +109,7 @@
                                 <!-- 4 -->
                                 <div class="flex flex-row items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -124,7 +124,7 @@
                                 <!-- 5 -->
                                 <div class="flex flex-row items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -139,7 +139,7 @@
                                 <!-- 6 -->
                                 <div class="flex flex-row bg-blue-banne2 items-start max-w-sm">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -272,7 +272,7 @@
                                             md:w-10/10 
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay
@@ -289,7 +289,7 @@
                                             md:w-10/10
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -306,7 +306,7 @@
                                             md:w-10/10
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div  class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -345,7 +345,7 @@
                                             md:w-10/10
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10">
                                         <p class="text-gray-graylay 
@@ -362,7 +362,7 @@
                                             md:w-10/10
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10 ">
                                         <p class="text-gray-graylay 
@@ -379,7 +379,7 @@
                                             md:w-10/10
                                             ">
                                     <div class="w-1/1 pt-2">
-                                        <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
+                                        <img class="w-4 h-4" src="../assets/img/discs.png" alt="">
                                     </div>
                                     <div class="w-10/10 ">
                                         <p class="text-gray-graylay 
