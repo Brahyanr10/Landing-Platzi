@@ -216,7 +216,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/Ibm.png" alt="">
+                                        src="../assets/img/Ibm.png" alt="">
                         </div>
                         <div class="
                                     sms:pt-2
