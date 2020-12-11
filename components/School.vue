@@ -170,7 +170,7 @@
                     </div>
                     <!-- <div class="pt-6 flex w-10/10 justify-center items-center">
                         <div class="flex justify-center intems-center w-5/5 border-2 h-32">
-                            <img class="flex justify-center items-center" src="./Imagenes/maria.jpeg" alt="">
+                            <img class="flex justify-center items-center" src="../assets/img/maria.jpeg" alt="">
                         </div>
                     </div> -->
                 </div>
@@ -204,7 +204,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/googlecloud.png" alt="">
+                                        src="../assets/img/googlecloud.png" alt="">
                         </div>
                         <div class="
                                     sms:pt-2
@@ -228,7 +228,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/unity.png" alt="">
+                                        src="../assets/img/unity.png" alt="">
                         </div>
                         <div class="
                                     sms:pt-2
@@ -240,7 +240,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/ycombinator.png" alt="">
+                                        src="../assets/img/ycombinator.png" alt="">
                         </div>
                         <div class="
                                     sms:pt-2
@@ -252,7 +252,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/facebook.png" alt="">
+                                        src="../assets/img/facebook.png" alt="">
                         </div>
                         <div class="
                                     sms:pt-2
@@ -264,7 +264,7 @@
                                         sms:h-5
                                         sm:h-4
                                         md:h-9"
-                                        src="./Imagenes/secretaria.png" alt="">
+                                        src="../assets/img/secretaria.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -504,7 +504,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="./Imagenes/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium 
@@ -519,7 +519,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="./Imagenes/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium 
@@ -534,7 +534,7 @@
                     <div class="flex flex-row bg-blue-dark items-center max-w-sm
                                 sm:pt-6">
                         <div class="w-2/2 ">
-                            <img class="w-4 h-4" src="./Imagenes/disc.png" alt="">
+                            <img class="w-4 h-4" src="../assets/img/disc.png" alt="">
                         </div>
                         <div>
                             <p class="text-gray-graylay font-medium
